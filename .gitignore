@@ -3,3 +3,6 @@
 ################################################################################
 
 /AngularJSSampleApp/packages
+/AngularJSSampleApp/AngularJSSampleApp/bin
+/AngularJSSampleApp/AngularJSSampleApp/obj/Debug
+/AngularJSSampleApp/.vs
